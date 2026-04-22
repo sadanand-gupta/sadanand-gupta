@@ -1,27 +1,43 @@
-# Hi, I'm Sadanand Gupta
+# Hi, I'm Sadanand Gupta 👋
 
-💻 Software Developer at Tectalik  
-📍 Chennai, India  
+💻 Software Developer at Tectalik
+📍 Chennai, India
 
-## About Me
-I focus on building real-world applications with clean UI and practical functionality.  
-Currently working on mobile and web development projects in a production environment.
+---
 
-## Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- Frameworks: Vue.js (if using)
-- Mobile: Flutter
-- Tools: Git, GitHub
+## 🚀 About Me
 
-## Projects
-- Mobile application features & UI implementations
-- Web-based interfaces and dashboards
-- (Add 2–3 real repos here)
+I build real-world mobile and web applications with clean UI and practical functionality.
+Currently working on production-level features and improving development practices.
 
-## What I’m Learning
-- Scalable frontend architecture  
-- Improving UI/UX consistency  
-- Production-level development practices  
+---
 
-## Contact
-📧 your-email@example.com
+## 🛠 Tech Stack
+
+* Flutter
+* HTML, CSS, JavaScript
+* Vue.js
+* Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadanand-gupta\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadanand-gupta\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sadanand-gupta\&theme=tokyonight)
+
+---
+
+## 📌 Projects
+
+* 🔗 https://github.com/tectalik/oro_mobile
+* 🔗 (Add your best 2–3 repos)
+
+---
+
+## 📫 Contact
+
+📧 [sadanandguptat@gmail.com](mailto:sadanandguptat@gmail.com)
