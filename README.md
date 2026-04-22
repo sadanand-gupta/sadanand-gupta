@@ -53,8 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadanand-gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&custom_title=Commits+%26+Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=sadanand-gupta&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sadanand-gupta&theme=github-dark-blue&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
