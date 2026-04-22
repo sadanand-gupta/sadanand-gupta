@@ -25,10 +25,17 @@
 |---------|------|-------|
 | **Oro Mobile** | B2B jewellery order management | Flutter, REST API |
 | **Starr Mobile** | AI-powered mobile app | Flutter |
-| **Jewellery ERP** | Full ERP system | Vue.js, REST API |
-| **Oro Connect** | B2B web portal | Vue.js |
-| **Jobwala.io** | Job portal | Flutter |
+| **Jewellery ERP** | Full ERP system for jewellery business | Vue.js, REST API |
+| **Oro Connect Web** | B2B web portal | Vue.js |
+| **Jobwala.io** | Job portal platform | Flutter |
 | **FixKaro** | Service booking app | Flutter |
+| **GameBox** | Gaming application | Flutter |
+| **DrivePhotos** | Photo management app | Flutter |
+| **Hindi Classes Chennai** | Learning platform | Web |
+| **BoardPage App** | Generative app | Flutter |
+| **Voice Chat Web** | Voice search web app | JavaScript |
+| **Carat Canvas** | Jewellery design tool | Web |
+| **Starr AI** | AI platform | Flutter |
 
 ### Open Source
 
@@ -36,9 +43,19 @@
 |--|--|--|
 | [Octopus G App](https://github.com/sadanand-gupta/octopus-g-app) | Resume to portfolio converter | Flutter |
 | [Portfolio](https://sadanand-gupta.github.io/portfolio/) | Personal site | JS, HTML, CSS |
+| [Portfolio v2](https://github.com/sadanand-gupta/portfolioo) | Rebuilt with Vue.js | Vue.js |
 | [AdoptEase](https://github.com/sadanand-gupta/AdoptEase) | Pet adoption platform | HTML, CSS, JS |
+| [Online Shop](https://github.com/sadanand-gupta/online-shopping-website) | E-commerce website | HTML, CSS, JS |
+| [Gym Website](https://github.com/sadanand-gupta/Gym_website) | Fitness landing page | HTML, CSS |
+| [Linktree](https://github.com/sadanand-gupta/linktree) | Link aggregator | HTML |
+| [Internship Project](https://github.com/sadanand-gupta/InternshipStudioProject) | Web design internship | HTML, CSS |
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadanand-gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&custom_title=Commits+%26+Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sadanand-gupta&theme=github-dark-blue&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadanand-gupta&theme=github-dark&hide_border=true&area=true" width="95%" />
