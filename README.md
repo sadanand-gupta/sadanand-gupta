@@ -17,19 +17,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
 
-## Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Oro Mobile** | Enterprise B2B order management app | Flutter, REST API |
-| [Octopus G App](https://github.com/sadanand-gupta/octopus-g-app) | Resume to portfolio converter | Flutter, Dart |
-| [Portfolio](https://sadanand-gupta.github.io/portfolio/) | Personal portfolio site | JavaScript, HTML, CSS |
-| [AdoptEase](https://github.com/sadanand-gupta/AdoptEase) | Pet adoption platform | HTML, CSS, JS |
-| [Online Shop](https://github.com/sadanand-gupta/online-shopping-website) | E-commerce website | HTML, CSS, JS |
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadanand-gupta&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%" />
