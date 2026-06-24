@@ -52,9 +52,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sadanand-gupta&theme=github-dark-blue&hide_border=true" width="60%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadanand-gupta&theme=github-dark&hide_border=true&area=true" width="95%" />
