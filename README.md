@@ -53,12 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadanand-gupta&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadanand-gupta&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadanand-gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadanand-gupta&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com/?user=sadanand-gupta&theme=github-dark-blue&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
@@ -68,4 +63,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadanand-gupta&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="40%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadanand-gupta&theme=github_dark&utcOffset=5.5" width="40%" />
-</p>
+</p> 
