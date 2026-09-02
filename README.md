@@ -24,16 +24,36 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## 📱 App Development
 
-**Mobile**
+**Skills**
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-**Web**
+**Projects**
+
+| Project | Description | Stack |
+|---|---|---|
+| **Oro Mobile** | B2B jewellery order management | Flutter, REST API |
+| **Starr Mobile** | AI-powered mobile app | Flutter |
+| **Starr AI** | AI platform | Flutter |
+| **Jobwala.io** | Job portal platform | Flutter |
+| **FixKaro** | Service booking app | Flutter |
+| **GameBox** | Gaming application | Flutter |
+| **DrivePhotos** | Photo management app | Flutter |
+| **BoardPage App** | Generative app | Flutter |
+| [Octopus G App](https://github.com/sadanand-gupta/octopus-g-app) | Resume to portfolio converter | Flutter |
+
+<br/>
+
+## 🌐 Web Development
+
+**Skills**
 
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -42,41 +62,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-**Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
-<br/>
-
-## 💼 Featured Work
+**Projects**
 
 | Project | Description | Stack |
 |---|---|---|
-| **Oro Mobile** | B2B jewellery order management | Flutter, REST API |
-| **Starr Mobile** | AI-powered mobile app | Flutter |
 | **Jewellery ERP** | Full ERP system for jewellery business | Vue.js, REST API |
 | **Oro Connect Web** | B2B web portal | Vue.js |
-| **Jobwala.io** | Job portal platform | Flutter |
-| **FixKaro** | Service booking app | Flutter |
-| **GameBox** | Gaming application | Flutter |
-| **DrivePhotos** | Photo management app | Flutter |
 | **Hindi Classes Chennai** | Learning platform | Web |
-| **BoardPage App** | Generative app | Flutter |
 | **Voice Chat Web** | Voice search web app | JavaScript |
 | **Carat Canvas** | Jewellery design tool | Web |
-| **Starr AI** | AI platform | Flutter |
-
-<br/>
-
-## 🌐 Open Source
-
-| Repo | Description | Stack |
-|---|---|---|
-| [Octopus G App](https://github.com/sadanand-gupta/octopus-g-app) | Resume to portfolio converter | Flutter |
 | [Portfolio](https://sadanand-gupta.github.io/portfolio/) | Personal site | JS, HTML, CSS |
 | [Portfolio v2](https://github.com/sadanand-gupta/portfolioo) | Rebuilt with Vue.js | Vue.js |
 | [AdoptEase](https://github.com/sadanand-gupta/AdoptEase) | Pet adoption platform | HTML, CSS, JS |
@@ -84,6 +78,16 @@
 | [Gym Website](https://github.com/sadanand-gupta/Gym_website) | Fitness landing page | HTML, CSS |
 | [Linktree](https://github.com/sadanand-gupta/linktree) | Link aggregator | HTML |
 | [Internship Project](https://github.com/sadanand-gupta/InternshipStudioProject) | Web design internship | HTML, CSS |
+
+<br/>
+
+## 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
 <br/>
 
